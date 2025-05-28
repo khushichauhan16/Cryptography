@@ -1,6 +1,2 @@
 .vscode
-DES.exe
-IDEA.exe
-MD5.exe
-RC5.exe
-SHA1.exe
+*.exe
